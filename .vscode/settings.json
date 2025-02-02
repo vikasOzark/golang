@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "asaskevich",
+        "gorm",
+        "govalidator",
+        "labstack"
+    ],
+    "docwriter.style": "JSDoc",
+    "docwriter.hotkey.mac": "⌘ + .",
+    "docwriter.language": "English"
+}
